@@ -34,8 +34,6 @@ Languages: Python, Java, C, SQL
 
 Technologies: Scikit-learn, Matplotlib, GitHub, Bash Scripting
 
-Concepts: Data Structures, Algorithms, Database Design, Systems Programming
-
 📂 Projects
 
 Here are some of my recent and ongoing projects:
